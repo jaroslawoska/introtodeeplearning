@@ -1,5 +1,14 @@
 {
-  "editor.quickSuggestions": false,
+  "editor.quickSuggestions": {
+    "comments": "off",
+    "strings": "off",
+    "other": "off"
+  },
   "editor.suggestOnTriggerCharacters": false,
-  "editor.inlineSuggest.enabled": false
+  "editor.inlineSuggest.enabled": false,
+  "editor.fontSize": 14,
+  "notebook.outputFontSize": 16,
+  "notebook.markdownFontSize": 16,
+  "markdown.preview.fontSize": 16,
+  "window.zoomLevel": 1
 }
